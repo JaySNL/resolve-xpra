@@ -1,0 +1,5 @@
+.git
+install/
+*.run
+*.deb
+.DS_Store
